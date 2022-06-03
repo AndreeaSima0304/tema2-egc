@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e34103f-6139-3465-b93d-6f18bb9d481b": {
+      "ProjectGuid": "7e34103f-6139-3465-b93d-6f18bb9d481b",
+      "DisplayName": "GFXFramework",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

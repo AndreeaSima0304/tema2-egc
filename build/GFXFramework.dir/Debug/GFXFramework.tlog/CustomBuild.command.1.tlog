@@ -1,0 +1,10 @@
+^C:\USERS\TEA\DESKTOP\TEMA2 EGC\CMAKELISTS.TXT
+setlocal
+C:\cmake-3.22.0-windows-x86_64\bin\cmake.exe "-SC:/Users/Tea/Desktop/tema2 egc" "-BC:/Users/Tea/Desktop/tema2 egc/build" --check-stamp-file "C:/Users/Tea/Desktop/tema2 egc/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,27 @@
+# CMake generation dependency list for this directory.
+C:/Users/Tea/Desktop/tema2 egc/CMakeLists.txt
+C:/Users/Tea/Desktop/tema2 egc/build/CMakeFiles/3.22.0/CMakeCCompiler.cmake
+C:/Users/Tea/Desktop/tema2 egc/build/CMakeFiles/3.22.0/CMakeCXXCompiler.cmake
+C:/Users/Tea/Desktop/tema2 egc/build/CMakeFiles/3.22.0/CMakeRCCompiler.cmake
+C:/Users/Tea/Desktop/tema2 egc/build/CMakeFiles/3.22.0/CMakeSystem.cmake
+C:/Users/Tea/Desktop/tema2 egc/infra/utils.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeCInformation.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeCXXInformation.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeGenericSystem.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeRCInformation.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/Compiler/MSVC-C.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/Compiler/MSVC-CXX.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/FindOpenGL.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/FindPackageMessage.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/Platform/Windows-MSVC-C.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/Platform/Windows-MSVC.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/Platform/Windows.cmake
+C:/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/Platform/WindowsPaths.cmake

@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\lab_m1\tema2\object2D.cpp">
+      <Filter>src\lab_m1\tema2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\lab_m1\tema2\tema2.cpp">
+      <Filter>src\lab_m1\tema2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Tea\Desktop\tema2 egc\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\lab_m1\lab_list.h">
+      <Filter>src\lab_m1</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\lab_m1\tema2\object2D.h">
+      <Filter>src\lab_m1\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\lab_m1\tema2\tema2.h">
+      <Filter>src\lab_m1\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\lab_m1\tema2\tema2_camera.h">
+      <Filter>src\lab_m1\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\lab_m1\tema2\transform2D.h">
+      <Filter>src\lab_m1\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\lab_m1\tema2\transform3D.h">
+      <Filter>src\lab_m1\tema2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Tea\Desktop\tema2 egc\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Tea\Desktop\tema2 egc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{9A475FB6-4A4B-3AEE-8B53-0655CAE1F735}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{E6C25418-9A17-3CBD-9672-6799112E6B69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{8449D54F-74B1-3CC9-9F8A-E9030436BB84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{13E6E49C-5A1D-3F4D-AE5A-C73BCB1BBC28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{D4DB803C-A44F-3E37-B829-1FCE7D900D49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{368F5DA8-E433-3FD8-8020-C404BA8B7EDA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1">
+      <UniqueIdentifier>{B1235F04-71AE-30E1-8E84-E82419418A7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\lab_m1\tema2">
+      <UniqueIdentifier>{0B7A7038-D8B9-3EF7-ABA4-057D20BCA2FE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{0A15AB8D-0C23-3675-B4CE-8E67D17E2FA9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

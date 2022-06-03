@@ -1,0 +1,10 @@
+^C:\USERS\TEA\DESKTOP\TEMA2 EGC\BUILD\CMAKEFILES\99A33EEBE2CF0E25714C853AA770D61C\GENERATE.STAMP.RULE
+setlocal
+C:\cmake-3.22.0-windows-x86_64\bin\cmake.exe "-SC:/Users/Tea/Desktop/tema2 egc" "-BC:/Users/Tea/Desktop/tema2 egc/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Tea/Desktop/tema2 egc/build/GFXFramework.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
